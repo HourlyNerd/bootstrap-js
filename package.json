@@ -1,0 +1,19 @@
+{
+  "name": "hn-bootstrap-js",
+  "version": "1.0.0",
+  "description": "bootstrap custom build with javascript we use",
+  "main": "bootstrap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HourlyNerd/bootstrap-js.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HourlyNerd/bootstrap-js/issues"
+  },
+  "homepage": "https://github.com/HourlyNerd/bootstrap-js#readme"
+}

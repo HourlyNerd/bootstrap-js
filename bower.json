@@ -1,0 +1,17 @@
+{
+  "name": "bootstrap-js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/HourlyNerd/bootstrap-js",
+  "authors": [
+    "Misha Koryak <mkoryak@gmail.com>"
+  ],
+  "main": "bootstrap.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
