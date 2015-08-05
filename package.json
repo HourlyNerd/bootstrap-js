@@ -1,6 +1,6 @@
 {
   "name": "hn-bootstrap-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "bootstrap custom build with javascript we use",
   "main": "bootstrap.js",
   "scripts": {
